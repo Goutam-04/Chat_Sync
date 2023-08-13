@@ -1,0 +1,13 @@
+create-react-app . means i want to make the react app inside of the client folder
+
+to connect socket.io to the frontend we use a library named socket.io-client
+
+input is not taken when enter key is press but manually clicking the button does then
+  onKeyDown={(e)=>{e.key==="Enter"&&your_function()}}
+
+
+  use import ScrollToBottom from 'react-scroll-to-bottom' to scroll the content always to bottom automatically
+
+  to automatically clear the input filled after writing make the input tags value empty after send function is done
+
+  
